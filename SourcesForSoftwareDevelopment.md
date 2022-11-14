@@ -2,10 +2,10 @@
 
 ## Channels
 
-[James Shore](https://www.youtube.com/c/jdlshore)   
+[James Shore](https://www.youtube.com/c/jdlshore)     
 [Nick Chapsas](https://www.youtube.com/c/Elfocrash)  
-[Steve Gordon](https://www.stevejgordon.co.uk/) 
-[Roy Osherove](https://www.youtube.com/c/osherove/videos)
+[Steve Gordon](https://www.stevejgordon.co.uk/)  
+[Roy Osherove](https://www.youtube.com/c/osherove/videos)  
 
 ## Video
 
