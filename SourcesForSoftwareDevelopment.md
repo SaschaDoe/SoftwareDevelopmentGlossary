@@ -4,10 +4,14 @@
 
 [Jamesshore](https://www.jamesshore.com/)
 
-## Video
+## Channels
 
 [James Shore Youtube Channel](https://www.youtube.com/c/jdlshore)   
 [Nick Chapsas Youtube Channel](https://www.youtube.com/c/Elfocrash)  
+[Steve Gordon](https://www.stevejgordon.co.uk/)  
+
+## Video
+
 [Programm.cs structure](https://www.youtube.com/watch?v=YHrhO_Zkgvk)  
 [Programmers Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)  
 
