@@ -1,14 +1,11 @@
 # Sources
 
-## Persons
-
-[Jamesshore](https://www.jamesshore.com/)
-
 ## Channels
 
 [James Shore](https://www.youtube.com/c/jdlshore)   
 [Nick Chapsas](https://www.youtube.com/c/Elfocrash)  
-[Steve Gordon](https://www.stevejgordon.co.uk/)  
+[Steve Gordon](https://www.stevejgordon.co.uk/) 
+[Roy Osherove](https://www.youtube.com/c/osherove/videos)
 
 ## Video
 
@@ -33,6 +30,7 @@
 [Monkeytype](https://monkeytype.com/)  
 [NitroType](https://www.nitrotype.com/)
 [CodeOpinion](https://codeopinion.com/)
+[Jamesshore](https://www.jamesshore.com/)
 
 ## Hardware
 
