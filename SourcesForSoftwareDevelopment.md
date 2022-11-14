@@ -6,6 +6,7 @@
 [Nick Chapsas](https://www.youtube.com/c/Elfocrash)  
 [Steve Gordon](https://www.stevejgordon.co.uk/)  
 [Roy Osherove](https://www.youtube.com/c/osherove/videos)  
+[GOTO](https://www.youtube.com/c/GotoConferences)
 
 ## Video
 
