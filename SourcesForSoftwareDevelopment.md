@@ -18,6 +18,7 @@
 ## Blogs
 
 [Joe Albahari](https://www.albahari.com/)
+[dotnetsafer](https://blog.dotnetsafer.com/)
 
 ### Blogposts
 [Short Burst Practise](https://coenmodder.com/short-burst-practice-how-to-make-practicing-10x-more-effective/)  
