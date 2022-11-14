@@ -12,6 +12,7 @@
 
 [Programm.cs structure](https://www.youtube.com/watch?v=YHrhO_Zkgvk)  
 [Programmers Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)  
+[Unit tests in legacy code](https://www.youtube.com/watch?v=2jNqc6YWMuU)
 
 ## Blogs
 
