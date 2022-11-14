@@ -6,8 +6,8 @@
 
 ## Channels
 
-[James Shore Youtube Channel](https://www.youtube.com/c/jdlshore)   
-[Nick Chapsas Youtube Channel](https://www.youtube.com/c/Elfocrash)  
+[James Shore](https://www.youtube.com/c/jdlshore)   
+[Nick Chapsas](https://www.youtube.com/c/Elfocrash)  
 [Steve Gordon](https://www.stevejgordon.co.uk/)  
 
 ## Video
