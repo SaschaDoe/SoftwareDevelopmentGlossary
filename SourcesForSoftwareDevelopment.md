@@ -20,8 +20,8 @@
 
 ## Websites
 
-[Keybr](https://www.keybr.com/)
-[Monkeytype](https://monkeytype.com/)
+[Keybr](https://www.keybr.com/)  
+[Monkeytype](https://monkeytype.com/)  
 
 ## Hardware
 
