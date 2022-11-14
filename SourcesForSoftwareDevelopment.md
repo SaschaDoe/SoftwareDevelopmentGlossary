@@ -29,8 +29,8 @@
 [Keybr](https://www.keybr.com/)  
 [Monkeytype](https://monkeytype.com/)  
 [NitroType](https://www.nitrotype.com/)
-[CodeOpinion](https://codeopinion.com/)
-[Jamesshore](https://www.jamesshore.com/)
+[CodeOpinion](https://codeopinion.com/)  
+[Jamesshore](https://www.jamesshore.com/)  
 
 ## Hardware
 
