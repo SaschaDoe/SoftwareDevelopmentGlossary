@@ -14,6 +14,9 @@
 
 [Joe Albahari](https://www.albahari.com/)
 
+### Blogposts
+[Short Burst Practise](https://coenmodder.com/short-burst-practice-how-to-make-practicing-10x-more-effective/)  
+
 ## Books
 
 [C# in a Nutshell](https://www.amazon.com/gp/product/1098121953?ie=UTF8&tag=cinanu-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1098121953)
