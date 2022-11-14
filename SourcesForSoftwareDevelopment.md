@@ -12,3 +12,7 @@
 ## Blogs
 
 [Joe Albahari](https://www.albahari.com/)
+
+## Books
+
+[C# in a Nutshell](https://www.amazon.com/gp/product/1098121953?ie=UTF8&tag=cinanu-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1098121953)
