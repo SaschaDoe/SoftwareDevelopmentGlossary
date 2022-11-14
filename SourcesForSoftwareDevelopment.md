@@ -6,7 +6,8 @@
 
 ## Video
 
-[James Shore Youtube Channel](https://www.youtube.com/c/jdlshore)  
+[James Shore Youtube Channel](https://www.youtube.com/c/jdlshore)   
+[Nick Chapsas Youtube Channel](https://www.youtube.com/c/Elfocrash)  
 [Programm.cs structure](https://www.youtube.com/watch?v=YHrhO_Zkgvk)  
 [Programmers Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)  
 
@@ -30,4 +31,8 @@
 ## Hardware
 
 [Charachorder](https://www.charachorder.com/en-de)
+
+## Topics
+
+[CLI Package for C#](https://www.youtube.com/watch?v=Pt-0KM5SxmI)
 
